@@ -1,0 +1,18 @@
+body
+{
+    text-align: center;
+    background-color:sienna;
+}
+
+#Apps
+{
+    background-color: lime;
+}
+
+.line
+{
+    width: 150px;
+    color: darkgray;
+    height: 10px;
+    align: center;
+}
